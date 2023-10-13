@@ -1,0 +1,6 @@
+![[Extensive Form]]
+![[Chance Moves]]
+![[Information]]
+![[Strategy]]
+![[Strategic Form]]
+![[Analysis of games]]
